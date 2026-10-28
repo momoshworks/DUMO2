@@ -1,0 +1,6 @@
+{
+  "name": "DUMU",
+  "description": "Delta University Mobile Utility: Smart assistant, schedule timeline, DULMS task sync, study tools, and media hub.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
